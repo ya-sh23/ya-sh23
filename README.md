@@ -44,7 +44,7 @@
 
 
 # 📊 Leetcode Stats:
-[![Leetcode Stats](https://leetcard.jacoblin.cool/yashpatel231203?ext=heatmap)](https://leetcode.com/AbhaySingh_2003/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/yashpatel231203?ext=heatmap)](https://leetcode.com/u/yashpatel231203/)
 
 # 📊 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=ya-sh23&theme=hacker&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://github.com/imAbhaySingh) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ya-sh23&layout=compact&theme=vision-friendly-dark)](https://github.com/imAbhaySingh)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ya-sh23&theme=hacker&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://github.com/ya-sh23) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ya-sh23&layout=compact&theme=vision-friendly-dark)](https://github.com/ya-sh23)
